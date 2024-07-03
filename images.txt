@@ -1,2 +1,1 @@
-#支持私库
 infiniflow/ragflow-base:v2.0
